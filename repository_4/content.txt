@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+text_1 commit_2    text_1_1 commit_2_1     text_1_1 commit_2_2 
+=======
+text_1 commit_2
+>>>>>>> master
+text_2 commit_3
+text_3 commit_4
